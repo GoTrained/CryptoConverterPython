@@ -1,4 +1,4 @@
-# Wit.ai Chatbot - Simple-Currency-Converter
+# Wit.ai Chatbot - Crypto Converter
 Project from the series of tutorials on Wit.ai Chatbot Development with Python
 
 Join the related video course, **Chatbot Building: Rasa, DialogFlow & WIT.AI Bots with Python**
